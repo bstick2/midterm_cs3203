@@ -3,23 +3,23 @@ https://github.com/bstick2/midterm_cs3203/
 By Branson Stickney (ID: 112928835)
 ## Yo Application
 Login Screen  
-![](Login.png)  
+![](https://github.com/bstick2/midterm_cs3203/Login.png)  
 Sign Up Screens  
-![](Signup1.png)
-![](Signup2.png)  
+![](https://github.com/bstick2/midterm_cs3203/Signup1.png)
+![](https://github.com/bstick2/midterm_cs3203/Signup2.png)  
 Home Screen  
-![](Home.png)  
+![](https://github.com/bstick2/midterm_cs3203/Home.png)  
 Map Screen  
-![](Map.png)  
+![](https://github.com/bstick2/midterm_cs3203/Map.png)  
 General Screen  
-![](General.png)  
+![](https://github.com/bstick2/midterm_cs3203/General.png)  
 New Screen  
-![](New.png)  
+![](https://github.com/bstick2/midterm_cs3203/New.png)  
 Add a Friend Screen  
-![](AddaFriend.png)  
+![](https://github.com/bstick2/midterm_cs3203/AddaFriend.png)  
 Quick Add Screens (New Feature)  
-![](QuickAdd1.png)
-![](QuickAdd2.png)  
+![](https://github.com/bstick2/midterm_cs3203/QuickAdd1.png)
+![](https://github.com/bstick2/midterm_cs3203/QuickAdd2.png)  
 
 ## ACM Ethics Code
 ### Ethical Issues
