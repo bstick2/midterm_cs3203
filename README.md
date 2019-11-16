@@ -1,4 +1,5 @@
 # CS3203 Midterm
+By Branson Stickney (ID: 112928835)
 ## Yo Application
 Login Screen  
 ![](Login.png)  
